@@ -1,425 +1,423 @@
-{
-    "engineering_quotes": [
-      {
-        "quote": "Engineers like to solve problems. If there are no problems handily available, they will create their own problems.",
-        "author": "Scott Adams"
-      },
-      {
-        "quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
-        "author": "Antoine de Saint-Exupery"
-      },
-      {
-        "quote": "The problem in this business isn’t to keep people from stealing your ideas; it's making them steal your ideas!",
-        "author": "Howard Aiken"
-      },
-      {
-        "quote": "Math is my Passion. Engineering is my Profession.",
-        "author": "Wilfred James Dolor"
-      },
-      {
-        "quote": "Any idiot can build a bridge that stands, but it takes an engineer to build a bridge that barely stands.",
-        "author": "Unknown"
-      },
-      {
-        "quote": "The human foot is a masterpiece of engineering and a work of art.",
-        "author": "Leonardo da Vinci"
-      },
-      {
-        "quote": "The fewer moving parts, the better.",
-        "author": "Christian Cantrell"
-      },
-      {
-        "quote": "When you want to know how things really work, study them when they’re coming apart.",
-        "author": "William Gibson"
-      },
-      {
-        "quote": "I’ve never seen a job being done by a five-hundred-person engineering team that couldn’t be done better by fifty people.",
-        "author": "C. Gordon Bell"
-      },
-      {
-        "quote": "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.",
-        "author": "Douglas Adams"
-      },
-      {
-        "quote": "Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it.",
-        "author": "Sir Henry Royce"
-      },
-      {
-        "quote": "Normal people believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet.",
-        "author": "Scott Adams"
-      },
-      {
-        "quote": "Engineering is not only study of 45 subjects but it is moral studies of intellectual life.",
-        "author": "Prakhar Srivastav"
-      },
-      {
-        "quote": "First rule of engineering; beware prototypes. Along with, avoid anything made by an engineer who doesn't have all his own fingers.",
-        "author": "Simon R. Green"
-      },
-      {
-        "quote": "The trick to having good ideas is not to sit around in glorious isolation and try to think big thoughts. The trick is to get more parts on the table.",
-        "author": "Steven Johnson"
-      },
-      {
-        "quote": "[John] Kobak explained, 'The way you learn anything is that something fails, and you figure out how not to have it fail again.",
-        "author": "Robert S. Arrighi"
-      },
-      {
-        "quote": "Manufacturing is more than just putting parts together. It’s coming up with ideas, testing principles and perfecting the engineering as well as final assembly.",
-        "author": "James Dyson"
-      },
-      {
-        "quote": "It is hardly surprising that the malodorous field of garbology has not attained the popularity of rocket science, oil exploration, or brain surgery.",
-        "author": "Hans Y. Tammemagi"
-      },
-      {
-        "quote": "Projects we have completed demonstrate what we know - future projects decide what we will learn.",
-        "author": "Dr. Mohsin Tiwana"
-      },
-      {
-        "quote": "I don’t spend my time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems.",
-        "author": "Elon Musk"
-      },
-      {
-        "quote": "A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few ideas as possible. There are no prima donnas in engineering.",
-        "author": "Freeman Dyson"
-      },
-      {
-        "quote": "To the optimist, the glass is half full. To the pessimist, the glass is half empty. To the engineer, the glass is twice as big as it needs to be.",
-        "author": "Unknown"
-      },
-      {
-        "quote": "There’s nothing I believe in more strongly than getting young people interested in science and engineering, for a better tomorrow, for all humankind.",
-        "author": "Bill Nye"
-      },
-      {
-        "quote": "But remember this, Japanese boy... airplanes are not tools for war. They are not for making money. Airplanes are beautiful dreams. Engineers turn dreams into reality.",
-        "author": "Hayao Miyazaki"
-      },
-      {
-        "quote": "What we usually consider as impossible are simply engineering problems… there’s no law of physics preventing them.",
-        "author": "Michio Kaku"
-      },
-      {
-        "quote": "I was originally supposed to become an engineer but the thought of having to expend my creative energy on things that make practical everyday life even more refined, with a loathsome capital gain as the goal, was unbearable to me.",
-        "author": "Albert Einstein"
-      },
-      {
-        "quote": "The most important thing is to keep the most important thing the most important thing.",
-        "author": "Donald P. Coduto"
-      },
-      {
-        "quote": "It is exciting to discover electrons and figure out the equations that govern their movement; it is boring to use those principles to design electric can openers. From here on out, it's all can openers.",
-        "author": "Neal Stephenson"
-      },
-      {
-        "quote": "Aeroplanes are not designed by science, but by art in spite of some pretence and humbug to the contrary. I do not mean to suggest that engineering can do without science, on the contrary, it stands on scientific foundations, but there is a big gap between scientific research and the engineering product which has to be bridged by the art of the engineer.",
-        "author": "British Engineer to the Royal Aeronautical Society, 1922."
-      },
-      {
-        "quote": " A great bridge is a great monument which should serve to make known the splendour and genius of a nation; one should not occupy oneself with efforts to perfect it architecturally, for taste is always susceptible to change, but to conserve always in its form and decoration the character of solidity which is proper.",
-        "author": "Jean Peronnet"
-      },
-      {
-        "quote": "An engineer is someone who is good with figures, but doesn't have the personality of an accountant.",
-        "author": "An Arts graduate's view of engineers"
-      },
-      {
-        "quote": "Architects and engineers are among the most fortunate of men since they build their own monuments with public consent, public approval and often public money.",
-        "author": "John Prebble"
-      },
-      {
-        "quote": "Engineering is the art of modelling materials we do not wholly understand, into shapes we cannot precisely analyse so as to withstand forces we cannot properly assess, in such a way that the public has no reason to suspect the extent of our ignorance.",
-        "author": "Dr. AR Dykes"
-      },
-      {
-        "quote": "Engineering problems are under-defined, there are many solutions, good, bad and indifferent. The art is to arrive at a good solution. This is a creative activity, involving imagination, intuition and deliberate choice.",
-        "author": "Ove Arup"
-      },
-      {
-        "quote": "Engineering refers to the practice of organizing the design and construction [and, I would add operation] of any artifice which transforms the physical world around us to meet some recognized need.",
-        "author": "G.F.C. Rogers"
-      },
-      {
-        "quote": "Engineering ... to define rudely but not inaptly, is the art of doing that well with one dollar, which any bungler can do with two after a fashion.",
-        "author": "Arthur Mellen Wellington"
-      },
-      {
-        "quote": "Engineers ... are not mere technicians and should not approve or lend their name to any project that does not promise to be beneficent to man and the advancement of civilization.",
-        "author": "John Fowler"
-      },
-      {
-        "quote": "Engineers ... are not superhuman. They make mistakes in their assumptions, in their calculations, in their conclusions. That they make mistakes is forgivable; that they catch them is imperative. Thus it is the essence of modern engineering not only to be able to check one's own work but also to have one's work checked and to be able to check the work of others.",
-        "author": "Henry Petroski"
-      },
-      {
-        "quote": "I take the vision which comes from dreams and apply the magic of science and mathematics, adding the heritage of my profession and my knowledge of nature's materials to create a design.",
-        "author": "Anonymous (supposedly found pinned to a site hut during the construction of the Konkan railway)"
-      },
-      {
-        "quote": "Experience serves not only to confirm theory, but differs from it without disturbing it, it leads to new truths which theory only has not been able to reach.",
-        "author": "Dalembert"
-      },
-      {
-        "quote": "From the laying out of a line of a tunnel to its final completion, the work may be either a series of experiments made at the expense of the proprietors of the project, or a series of judicious applications of the results of previous experience.",
-        "author": "H.S. Drinker"
-      },
-      {
-        "quote": "Go for civil engineering, because civil engineering is the branch of engineering which teaches you the most about managing people. Managing people is a skill which is very, very useful and applies almost regardless of what you do.",
-        "author": "Sir John Harvey Jones"
-      },
-      {
-        "quote": "I have not failed, but found 1000 ways to not make a light bulb.",
-        "author": "Thomas Edison"
-      },
-      {
-        "quote": "[I am] opposed to the laying down of rules or conditions to be observed in the construction of bridges lest the progress of improvement tomorrow might be embarrassed or shackled by recording or registering as law the prejudices or errors of today.",
-        "author": "Isambard Kingdom Brunel"
-      },
-      {
-        "quote": "The history of engineering is really the history of breakages, and of learning from those breakages. I was taught at college 'the engineer learns most on the scrapheap'.",
-        "author": "C.A. Claremont, Spanning Space"
-      },
-      {
-        "quote": "One has to watch out for engineers - they begin with the sewing machine and end up with the atomic bomb.",
-        "author": "Marcel Pagnol, Critiques des Critiques"
-      },
-      {
-        "quote": "Let him not be grasping nor have his mind preoccupied with ... receiving perquisites, but let him with dignity keep up his position by establishing a good reputation. No work can be rightly done without honesty and incorruptibility.",
-        "author": "Vitruvius"
-      },
-      {
-        "quote": "No doubt as years go by people forget which engineer did it, even if they ever knew. Or some politician puts his name on it. Or they credit it to some promoter who used other peoples money with which to finance it. But the engineer himself looks back at the unending stream of goodness that flows from his successes with satisfactions that few professions may know. And the verdict of his fellow professionals is all the accolade he wants.",
-        "author": "Herbert Hoover"
-      },
-      {
-        "quote": "Engineering or technology is the making of things that did not previously exist, whereas science is the discovering of things that have long existed.",
-        "author": "David Billington"
-      },
-      {
-        "quote": "The major difference between a thing that might go wrong and a thing that cannot possibly go wrong is that when a thing that cannot possibly go wrong goes wrong, it usually turns out to be impossible to get at and repair.",
-        "author": "Douglas Adams"
-      },
-      {
-        "quote": "The well being of the world largely depends upon the work of the engineer. There is a great future and unlimited scope for the profession; new works of all kinds are and will be required in every country, and for a young man of imagination and keenness I cannot conceive a more attractive profession. Imagination is necessary as well as scientific knowledge.",
-        "author": "Sir William Halcrow"
-      },
-      {
-        "quote": "There can be little doubt that in many ways the story of bridge building is the story of civilisation. By it we can readily measure an important part of a people's progress.",
-        "author": "Franklin D. Roosevelt"
-      },
-      {
-        "quote": "Engineering is quite different from science. Scientists try to understand nature. Engineers try to make things that do not exist in nature. Engineers stress invention.",
-        "author": "Yuan-Cheng Fung"
-      },
-      {
-        "quote": "When engineers and quantity surveyors discuss aesthetics and architects study what cranes do we are on the right road.",
-        "author": "Ove Arup"
-      },
-      {
-        "quote": "The life work of the engineer consists in the systematic application of natural forces and the systematic development of natural resources in the service of man.",
-        "author": "Harry Walter Tyler"
-      },
-      {
-        "quote": "The scientist discovers a new type of material or energy and the engineer discovers a new use for it.",
-        "author": "Gordon Lindsay Glegg"
-      },
-      {
-        "quote": "Can one think that because we are engineers, beauty does not preoccupy us or that we do not try to build beautiful, as well as solid and long-lasting, structures? Aren’t the genuine functions of strength always in keeping with unwritten conditions of harmony?",
-        "author": "Gustave Eiffel"
-      },
-      {
-        "quote": "A scientist can discover a new star but he cannot make one. He would have to ask an engineer to do it for him.",
-        "author": "Gordon Lindsay Glegg"
-      },
-      {
-        "quote": "Engineering is not merely knowing and being knowledgeable, like a walking encyclopedia; engineering is not merely analysis; engineering is not merely the possession of the capacity to get elegant solutions to non-existent engineering problems; engineering is practicing the art of the organising forces of technological change… Engineers operate at the interface between science and society.",
-        "author": "Gordon Stanley Brown"
-      },
-      {
-        "quote": "We shape our buildings, thereafter they shape us.",
-        "author": "Winston Churchill"
-      },
-      {
-        "quote": "Engineering is the art of directing the great sources of power in nature for the use and convenience of man.",
-        "author": "Thomas Tredgold"
-      },
-      {
-        "quote": "Engineering is the professional and systematic application of science to the efficient utilisation of natural resources to produce wealth.",
-        "author": "Theodore Jesse Hoover"
-      },
-      {
-        "quote": "It is a great profession. There is the satisfaction of watching a figment of the imagination emerge through the aid of science to a plan on paper. Then it moves to realization in stone or metal or energy. Then it brings jobs and homes to men. Then it elevates the standards of living and adds to the comforts of life. That is the engineer's high privilege.",
-        "author": "Herbert Hoover"
-      },
-      {
-        "quote": "Are engineers better at business than business people? It’s debatable. Business people certainly seem to have bigger houses, drive fancier cars, wear nicer clothes and have better looking mates. Engineers lack the time management skills to spend that kind of money. They waste all their time inventing ways to make the most money in the quickest, most efficient way possible. And then when they figure it out, they optimize the process.",
-        "author": "Raul Perez"
-      },
-      {
-        "quote": "No one wants to learn by mistakes, but we cannot learn enough from successes to go beyond the state of the art.",
-        "author": "Henry Petroski"
-      },
-      {
-        "quote": "Science can amuse and fascinate us all, but it is engineering that changes the world.",
-        "author": "Isaac Asimov"
-      },
-      {
-        "quote": "Scientists study the world as it is, engineers create the world that never has been.",
-        "author": "Theodore von Karman"
-      },
-      {
-        "quote": "The story of civilisation is, in a sense, the story of engineering - that long and arduous struggle to make the forces of nature work for man’s good.",
-        "author": "Lyon Sprague DeCamp"
-      },
-      {
-        "quote": "Manufacturing, science and engineering are…incredibly creative. I’d venture to say more so than creative advertising agencies and things that are known as the creative industries.",
-        "author": "Sir James Dyson"
-      },
-      {
-        "quote": "Men build bridges and throw railroads across deserts, and yet they contend successfully that the job of sewing on a button is beyond them.",
-        "author": "Heywood Broun"
-      },
-      {
-        "quote": "The ideal engineer is a composite… He is not a scientist, he is not a mathematician, he is not a sociologist or a writer, but he may use the knowledge and techniques of any or all of these disciplines in solving engineering problems.",
-        "author": "N.W. Dougherty"
-      },
-      {
-        "quote": "Engineering is the science of economy, of conserving energy, kinetic and potential, provided and stored up by nature for the use of man. It is the business of engineering to utilise this energy to the best advantage, so that there may be the least possible waste.",
-        "author": "William A. Smith"
-      },
-      {
-        "quote": "The goal of science and engineering is to build better mousetraps. The goal of nature is to build better mice.",
-        "author": "Unknown"
-      },
-      {
-        "quote": "All we know about the new economic world tells us that nations which train engineers will prevail over those which train lawyers. No nation has ever sued its way to greatness.",
-        "author": "Richard Lamm"
-      },
-      {
-        "quote": "The engineer has been, and is, a maker of history.",
-        "author": "James Kip Finch"
-      },
-      {
-        "quote": "You see, my ambition was not to confound the engineering world but simply to create a beautiful piece of art.",
-        "author": "Kit Williams"
-      },
-      {
-        "quote": "A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes.",
-        "author": "Helmut Jahn"
-      },
-      {
-        "quote": "Great triumphs of engineering genius—the locomotive, the truss bridge, the steel rail— ... are rather invention than engineering proper.",
-        "author": "Arthur Mellen Wellington"
-      },
-      {
-        "quote": "An engineer is someone who washes his hands before going to the toilet.",
-        "author": "Anonymous"
-      },
-      {
-        "quote": "A theory may be so rich in descriptive possibilities that it can be made to fit any data.",
-        "author": "Phillip Johnson-Laird"
-      },
-      {
-        "quote": "Improvement makes strait roads: but the crooked roads without improvement are roads of genius.",
-        "author": "William Blake"
-      },
-      {
-        "quote": "Knowing there is a structure, hidden or felt, to the random gives pleasure.",
-        "author": "Cecil Balmond"
-      },
-      {
-        "quote": "The engineer’s first problem in any design situation is to discover what the problem really is.",
-        "author": "Unknown"
-      },
-      {
-        "quote": "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.",
-        "author": "Buckminster Fuller"
-      },
-      {
-        "quote": "Gradually people come to you to buy surprise, and the thing that’s nicest about it is that when people come to buy surprise, I have no idea of what I’m going to give them either.",
-        "author": "Peter Rice"
-      },
-      {
-        "quote": "Engineering stimulates the mind. Kids get bored easily. They have got to get out and get their hands dirty: make things, dismantle things, fix things. When the schools can offer that, you’ll have an engineer for life.",
-        "author": "Bruce Dickinson"
-      },
-      {
-        "quote": "If not for the compulsions of engineers, mankind would never have seen the wheel, settling instead for the trapezoid because some Neanderthal in marketing convinced everybody it had great braking ability.",
-        "author": "Scott Adams"
-      },
-      {
-        "quote": "Engineers have more words for screwing up than the Inuit have words for snow.",
-        "author": "Pierce Nichols"
-      },
-      {
-        "quote": "At that time (1909) the chief engineer was almost always the chief test pilot as well. That had the fortunate result of eliminating poor engineering early in aviation.",
-        "author": "Igor Sikorsky"
-      },
-      {
-        "quote": "The engineer who is to achieve the good of the community at the least cost must find the solution that the work he is doing is to accomplish.",
-        "author": "F. W. Taylor"
-      },
-      {
-        "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
-        "author": "Winston Churchill"
-      },
-      {
-        "quote": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies.",
-        "author": "Tony Hoare"
-      },
-      {
-        "quote": "Humanity has the stars in its future, and that future is too important to be lost under the burden of juvenile folly and ignorant superstition.",
-        "author": "Isaac Asimov"
-      },
-      {
-        "quote": "I learned that a long walk and calm conversation are an incredible combination if you want to build a bridge.",
-        "author": "Seth Godin"
-      },
-      {
-        "quote": "As engineers, we were going to be in a position to change the world – not just study it.",
-        "author": "Henry Petroski"
-      },
-      {
-        "quote": "The number one benefit of information technology is that it empowers people to do what they want to do. It lets people be creative. It lets people be productive. It lets people learn things they didn't think they could learn before, and so in a sense it is all about potential.",
-        "author": "Steve Ballmer"
-      },
-      {
-        "quote": "Just as we could have rode into the sunset, along came the Internet, and it tripled the significance of the PC.",
-        "author": "Andy Grove"
-      },
-      {
-        "quote": "The real danger is not that computers will begin to think like men, but that men will begin to think like computers.",
-        "author": "Sydney J. Harris"
-      },
-      {
-        "quote": "Software is a great combination between artistry and engineering.",
-        "author": "Bill Gates"
-      },
-      {
-        "quote": "There’s an old story about the person who wished his computer were as easy to use as his telephone. That wish has come true, since I no longer know how to use my telephone.",
-        "author": "Bjarne Stroustrup"
-      },
-      {
-        "quote": "A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen.",
-        "author": "Paul Graham"
-      },
-      {
-        "quote": "I do not fear computers. I fear the lack of them.",
-        "author": "Isaac Asimov"
-      },
-      {
-        "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
-        "author": "Bill Gates"
-      },
-      {
-        "quote": "The function of good software is to make the complex appear to be simple.",
-        "author": "Grady Booch"
-      },
-      {
-        "quote": "The Internet? Is that thing still around?",
-        "author": "Homer Simpson"
-      }
-    ]
-  }
-  
+[
+    {
+      "quote": "Engineers like to solve problems. If there are no problems handily available, they will create their own problems.",
+      "author": "Scott Adams"
+    },
+    {
+      "quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+      "author": "Antoine de Saint-Exupery"
+    },
+    {
+      "quote": "The problem in this business isn’t to keep people from stealing your ideas; it's making them steal your ideas!",
+      "author": "Howard Aiken"
+    },
+    {
+      "quote": "Math is my Passion. Engineering is my Profession.",
+      "author": "Wilfred James Dolor"
+    },
+    {
+      "quote": "Any idiot can build a bridge that stands, but it takes an engineer to build a bridge that barely stands.",
+      "author": "Unknown"
+    },
+    {
+      "quote": "The human foot is a masterpiece of engineering and a work of art.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "quote": "The fewer moving parts, the better.",
+      "author": "Christian Cantrell"
+    },
+    {
+      "quote": "When you want to know how things really work, study them when they’re coming apart.",
+      "author": "William Gibson"
+    },
+    {
+      "quote": "I’ve never seen a job being done by a five-hundred-person engineering team that couldn’t be done better by fifty people.",
+      "author": "C. Gordon Bell"
+    },
+    {
+      "quote": "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.",
+      "author": "Douglas Adams"
+    },
+    {
+      "quote": "Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it.",
+      "author": "Sir Henry Royce"
+    },
+    {
+      "quote": "Normal people believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet.",
+      "author": "Scott Adams"
+    },
+    {
+      "quote": "Engineering is not only study of 45 subjects but it is moral studies of intellectual life.",
+      "author": "Prakhar Srivastav"
+    },
+    {
+      "quote": "First rule of engineering; beware prototypes. Along with, avoid anything made by an engineer who doesn't have all his own fingers.",
+      "author": "Simon R. Green"
+    },
+    {
+      "quote": "The trick to having good ideas is not to sit around in glorious isolation and try to think big thoughts. The trick is to get more parts on the table.",
+      "author": "Steven Johnson"
+    },
+    {
+      "quote": "[John] Kobak explained, 'The way you learn anything is that something fails, and you figure out how not to have it fail again.",
+      "author": "Robert S. Arrighi"
+    },
+    {
+      "quote": "Manufacturing is more than just putting parts together. It’s coming up with ideas, testing principles and perfecting the engineering as well as final assembly.",
+      "author": "James Dyson"
+    },
+    {
+      "quote": "It is hardly surprising that the malodorous field of garbology has not attained the popularity of rocket science, oil exploration, or brain surgery.",
+      "author": "Hans Y. Tammemagi"
+    },
+    {
+      "quote": "Projects we have completed demonstrate what we know - future projects decide what we will learn.",
+      "author": "Dr. Mohsin Tiwana"
+    },
+    {
+      "quote": "I don’t spend my time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems.",
+      "author": "Elon Musk"
+    },
+    {
+      "quote": "A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few ideas as possible. There are no prima donnas in engineering.",
+      "author": "Freeman Dyson"
+    },
+    {
+      "quote": "To the optimist, the glass is half full. To the pessimist, the glass is half empty. To the engineer, the glass is twice as big as it needs to be.",
+      "author": "Unknown"
+    },
+    {
+      "quote": "There’s nothing I believe in more strongly than getting young people interested in science and engineering, for a better tomorrow, for all humankind.",
+      "author": "Bill Nye"
+    },
+    {
+      "quote": "But remember this, Japanese boy... airplanes are not tools for war. They are not for making money. Airplanes are beautiful dreams. Engineers turn dreams into reality.",
+      "author": "Hayao Miyazaki"
+    },
+    {
+      "quote": "What we usually consider as impossible are simply engineering problems… there’s no law of physics preventing them.",
+      "author": "Michio Kaku"
+    },
+    {
+      "quote": "I was originally supposed to become an engineer but the thought of having to expend my creative energy on things that make practical everyday life even more refined, with a loathsome capital gain as the goal, was unbearable to me.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "The most important thing is to keep the most important thing the most important thing.",
+      "author": "Donald P. Coduto"
+    },
+    {
+      "quote": "It is exciting to discover electrons and figure out the equations that govern their movement; it is boring to use those principles to design electric can openers. From here on out, it's all can openers.",
+      "author": "Neal Stephenson"
+    },
+    {
+      "quote": "Aeroplanes are not designed by science, but by art in spite of some pretence and humbug to the contrary. I do not mean to suggest that engineering can do without science, on the contrary, it stands on scientific foundations, but there is a big gap between scientific research and the engineering product which has to be bridged by the art of the engineer.",
+      "author": "British Engineer to the Royal Aeronautical Society, 1922."
+    },
+    {
+      "quote": " A great bridge is a great monument which should serve to make known the splendour and genius of a nation; one should not occupy oneself with efforts to perfect it architecturally, for taste is always susceptible to change, but to conserve always in its form and decoration the character of solidity which is proper.",
+      "author": "Jean Peronnet"
+    },
+    {
+      "quote": "An engineer is someone who is good with figures, but doesn't have the personality of an accountant.",
+      "author": "An Arts graduate's view of engineers"
+    },
+    {
+      "quote": "Architects and engineers are among the most fortunate of men since they build their own monuments with public consent, public approval and often public money.",
+      "author": "John Prebble"
+    },
+    {
+      "quote": "Engineering is the art of modelling materials we do not wholly understand, into shapes we cannot precisely analyse so as to withstand forces we cannot properly assess, in such a way that the public has no reason to suspect the extent of our ignorance.",
+      "author": "Dr. AR Dykes"
+    },
+    {
+      "quote": "Engineering problems are under-defined, there are many solutions, good, bad and indifferent. The art is to arrive at a good solution. This is a creative activity, involving imagination, intuition and deliberate choice.",
+      "author": "Ove Arup"
+    },
+    {
+      "quote": "Engineering refers to the practice of organizing the design and construction [and, I would add operation] of any artifice which transforms the physical world around us to meet some recognized need.",
+      "author": "G.F.C. Rogers"
+    },
+    {
+      "quote": "Engineering ... to define rudely but not inaptly, is the art of doing that well with one dollar, which any bungler can do with two after a fashion.",
+      "author": "Arthur Mellen Wellington"
+    },
+    {
+      "quote": "Engineers ... are not mere technicians and should not approve or lend their name to any project that does not promise to be beneficent to man and the advancement of civilization.",
+      "author": "John Fowler"
+    },
+    {
+      "quote": "Engineers ... are not superhuman. They make mistakes in their assumptions, in their calculations, in their conclusions. That they make mistakes is forgivable; that they catch them is imperative. Thus it is the essence of modern engineering not only to be able to check one's own work but also to have one's work checked and to be able to check the work of others.",
+      "author": "Henry Petroski"
+    },
+    {
+      "quote": "I take the vision which comes from dreams and apply the magic of science and mathematics, adding the heritage of my profession and my knowledge of nature's materials to create a design.",
+      "author": "Anonymous (supposedly found pinned to a site hut during the construction of the Konkan railway)"
+    },
+    {
+      "quote": "Experience serves not only to confirm theory, but differs from it without disturbing it, it leads to new truths which theory only has not been able to reach.",
+      "author": "Dalembert"
+    },
+    {
+      "quote": "From the laying out of a line of a tunnel to its final completion, the work may be either a series of experiments made at the expense of the proprietors of the project, or a series of judicious applications of the results of previous experience.",
+      "author": "H.S. Drinker"
+    },
+    {
+      "quote": "Go for civil engineering, because civil engineering is the branch of engineering which teaches you the most about managing people. Managing people is a skill which is very, very useful and applies almost regardless of what you do.",
+      "author": "Sir John Harvey Jones"
+    },
+    {
+      "quote": "I have not failed, but found 1000 ways to not make a light bulb.",
+      "author": "Thomas Edison"
+    },
+    {
+      "quote": "[I am] opposed to the laying down of rules or conditions to be observed in the construction of bridges lest the progress of improvement tomorrow might be embarrassed or shackled by recording or registering as law the prejudices or errors of today.",
+      "author": "Isambard Kingdom Brunel"
+    },
+    {
+      "quote": "The history of engineering is really the history of breakages, and of learning from those breakages. I was taught at college 'the engineer learns most on the scrapheap'.",
+      "author": "C.A. Claremont, Spanning Space"
+    },
+    {
+      "quote": "One has to watch out for engineers - they begin with the sewing machine and end up with the atomic bomb.",
+      "author": "Marcel Pagnol, Critiques des Critiques"
+    },
+    {
+      "quote": "Let him not be grasping nor have his mind preoccupied with ... receiving perquisites, but let him with dignity keep up his position by establishing a good reputation. No work can be rightly done without honesty and incorruptibility.",
+      "author": "Vitruvius"
+    },
+    {
+      "quote": "No doubt as years go by people forget which engineer did it, even if they ever knew. Or some politician puts his name on it. Or they credit it to some promoter who used other peoples money with which to finance it. But the engineer himself looks back at the unending stream of goodness that flows from his successes with satisfactions that few professions may know. And the verdict of his fellow professionals is all the accolade he wants.",
+      "author": "Herbert Hoover"
+    },
+    {
+      "quote": "Engineering or technology is the making of things that did not previously exist, whereas science is the discovering of things that have long existed.",
+      "author": "David Billington"
+    },
+    {
+      "quote": "The major difference between a thing that might go wrong and a thing that cannot possibly go wrong is that when a thing that cannot possibly go wrong goes wrong, it usually turns out to be impossible to get at and repair.",
+      "author": "Douglas Adams"
+    },
+    {
+      "quote": "The well being of the world largely depends upon the work of the engineer. There is a great future and unlimited scope for the profession; new works of all kinds are and will be required in every country, and for a young man of imagination and keenness I cannot conceive a more attractive profession. Imagination is necessary as well as scientific knowledge.",
+      "author": "Sir William Halcrow"
+    },
+    {
+      "quote": "There can be little doubt that in many ways the story of bridge building is the story of civilisation. By it we can readily measure an important part of a people's progress.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "quote": "Engineering is quite different from science. Scientists try to understand nature. Engineers try to make things that do not exist in nature. Engineers stress invention.",
+      "author": "Yuan-Cheng Fung"
+    },
+    {
+      "quote": "When engineers and quantity surveyors discuss aesthetics and architects study what cranes do we are on the right road.",
+      "author": "Ove Arup"
+    },
+    {
+      "quote": "The life work of the engineer consists in the systematic application of natural forces and the systematic development of natural resources in the service of man.",
+      "author": "Harry Walter Tyler"
+    },
+    {
+      "quote": "The scientist discovers a new type of material or energy and the engineer discovers a new use for it.",
+      "author": "Gordon Lindsay Glegg"
+    },
+    {
+      "quote": "Can one think that because we are engineers, beauty does not preoccupy us or that we do not try to build beautiful, as well as solid and long-lasting, structures? Aren’t the genuine functions of strength always in keeping with unwritten conditions of harmony?",
+      "author": "Gustave Eiffel"
+    },
+    {
+      "quote": "A scientist can discover a new star but he cannot make one. He would have to ask an engineer to do it for him.",
+      "author": "Gordon Lindsay Glegg"
+    },
+    {
+      "quote": "Engineering is not merely knowing and being knowledgeable, like a walking encyclopedia; engineering is not merely analysis; engineering is not merely the possession of the capacity to get elegant solutions to non-existent engineering problems; engineering is practicing the art of the organising forces of technological change… Engineers operate at the interface between science and society.",
+      "author": "Gordon Stanley Brown"
+    },
+    {
+      "quote": "We shape our buildings, thereafter they shape us.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "Engineering is the art of directing the great sources of power in nature for the use and convenience of man.",
+      "author": "Thomas Tredgold"
+    },
+    {
+      "quote": "Engineering is the professional and systematic application of science to the efficient utilisation of natural resources to produce wealth.",
+      "author": "Theodore Jesse Hoover"
+    },
+    {
+      "quote": "It is a great profession. There is the satisfaction of watching a figment of the imagination emerge through the aid of science to a plan on paper. Then it moves to realization in stone or metal or energy. Then it brings jobs and homes to men. Then it elevates the standards of living and adds to the comforts of life. That is the engineer's high privilege.",
+      "author": "Herbert Hoover"
+    },
+    {
+      "quote": "Are engineers better at business than business people? It’s debatable. Business people certainly seem to have bigger houses, drive fancier cars, wear nicer clothes and have better looking mates. Engineers lack the time management skills to spend that kind of money. They waste all their time inventing ways to make the most money in the quickest, most efficient way possible. And then when they figure it out, they optimize the process.",
+      "author": "Raul Perez"
+    },
+    {
+      "quote": "No one wants to learn by mistakes, but we cannot learn enough from successes to go beyond the state of the art.",
+      "author": "Henry Petroski"
+    },
+    {
+      "quote": "Science can amuse and fascinate us all, but it is engineering that changes the world.",
+      "author": "Isaac Asimov"
+    },
+    {
+      "quote": "Scientists study the world as it is, engineers create the world that never has been.",
+      "author": "Theodore von Karman"
+    },
+    {
+      "quote": "The story of civilisation is, in a sense, the story of engineering - that long and arduous struggle to make the forces of nature work for man’s good.",
+      "author": "Lyon Sprague DeCamp"
+    },
+    {
+      "quote": "Manufacturing, science and engineering are…incredibly creative. I’d venture to say more so than creative advertising agencies and things that are known as the creative industries.",
+      "author": "Sir James Dyson"
+    },
+    {
+      "quote": "Men build bridges and throw railroads across deserts, and yet they contend successfully that the job of sewing on a button is beyond them.",
+      "author": "Heywood Broun"
+    },
+    {
+      "quote": "The ideal engineer is a composite… He is not a scientist, he is not a mathematician, he is not a sociologist or a writer, but he may use the knowledge and techniques of any or all of these disciplines in solving engineering problems.",
+      "author": "N.W. Dougherty"
+    },
+    {
+      "quote": "Engineering is the science of economy, of conserving energy, kinetic and potential, provided and stored up by nature for the use of man. It is the business of engineering to utilise this energy to the best advantage, so that there may be the least possible waste.",
+      "author": "William A. Smith"
+    },
+    {
+      "quote": "The goal of science and engineering is to build better mousetraps. The goal of nature is to build better mice.",
+      "author": "Unknown"
+    },
+    {
+      "quote": "All we know about the new economic world tells us that nations which train engineers will prevail over those which train lawyers. No nation has ever sued its way to greatness.",
+      "author": "Richard Lamm"
+    },
+    {
+      "quote": "The engineer has been, and is, a maker of history.",
+      "author": "James Kip Finch"
+    },
+    {
+      "quote": "You see, my ambition was not to confound the engineering world but simply to create a beautiful piece of art.",
+      "author": "Kit Williams"
+    },
+    {
+      "quote": "A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes.",
+      "author": "Helmut Jahn"
+    },
+    {
+      "quote": "Great triumphs of engineering genius—the locomotive, the truss bridge, the steel rail— ... are rather invention than engineering proper.",
+      "author": "Arthur Mellen Wellington"
+    },
+    {
+      "quote": "An engineer is someone who washes his hands before going to the toilet.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "A theory may be so rich in descriptive possibilities that it can be made to fit any data.",
+      "author": "Phillip Johnson-Laird"
+    },
+    {
+      "quote": "Improvement makes strait roads: but the crooked roads without improvement are roads of genius.",
+      "author": "William Blake"
+    },
+    {
+      "quote": "Knowing there is a structure, hidden or felt, to the random gives pleasure.",
+      "author": "Cecil Balmond"
+    },
+    {
+      "quote": "The engineer’s first problem in any design situation is to discover what the problem really is.",
+      "author": "Unknown"
+    },
+    {
+      "quote": "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.",
+      "author": "Buckminster Fuller"
+    },
+    {
+      "quote": "Gradually people come to you to buy surprise, and the thing that’s nicest about it is that when people come to buy surprise, I have no idea of what I’m going to give them either.",
+      "author": "Peter Rice"
+    },
+    {
+      "quote": "Engineering stimulates the mind. Kids get bored easily. They have got to get out and get their hands dirty: make things, dismantle things, fix things. When the schools can offer that, you’ll have an engineer for life.",
+      "author": "Bruce Dickinson"
+    },
+    {
+      "quote": "If not for the compulsions of engineers, mankind would never have seen the wheel, settling instead for the trapezoid because some Neanderthal in marketing convinced everybody it had great braking ability.",
+      "author": "Scott Adams"
+    },
+    {
+      "quote": "Engineers have more words for screwing up than the Inuit have words for snow.",
+      "author": "Pierce Nichols"
+    },
+    {
+      "quote": "At that time (1909) the chief engineer was almost always the chief test pilot as well. That had the fortunate result of eliminating poor engineering early in aviation.",
+      "author": "Igor Sikorsky"
+    },
+    {
+      "quote": "The engineer who is to achieve the good of the community at the least cost must find the solution that the work he is doing is to accomplish.",
+      "author": "F. W. Taylor"
+    },
+    {
+      "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies.",
+      "author": "Tony Hoare"
+    },
+    {
+      "quote": "Humanity has the stars in its future, and that future is too important to be lost under the burden of juvenile folly and ignorant superstition.",
+      "author": "Isaac Asimov"
+    },
+    {
+      "quote": "I learned that a long walk and calm conversation are an incredible combination if you want to build a bridge.",
+      "author": "Seth Godin"
+    },
+    {
+      "quote": "As engineers, we were going to be in a position to change the world – not just study it.",
+      "author": "Henry Petroski"
+    },
+    {
+      "quote": "The number one benefit of information technology is that it empowers people to do what they want to do. It lets people be creative. It lets people be productive. It lets people learn things they didn't think they could learn before, and so in a sense it is all about potential.",
+      "author": "Steve Ballmer"
+    },
+    {
+      "quote": "Just as we could have rode into the sunset, along came the Internet, and it tripled the significance of the PC.",
+      "author": "Andy Grove"
+    },
+    {
+      "quote": "The real danger is not that computers will begin to think like men, but that men will begin to think like computers.",
+      "author": "Sydney J. Harris"
+    },
+    {
+      "quote": "Software is a great combination between artistry and engineering.",
+      "author": "Bill Gates"
+    },
+    {
+      "quote": "There’s an old story about the person who wished his computer were as easy to use as his telephone. That wish has come true, since I no longer know how to use my telephone.",
+      "author": "Bjarne Stroustrup"
+    },
+    {
+      "quote": "A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen.",
+      "author": "Paul Graham"
+    },
+    {
+      "quote": "I do not fear computers. I fear the lack of them.",
+      "author": "Isaac Asimov"
+    },
+    {
+      "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Gates"
+    },
+    {
+      "quote": "The function of good software is to make the complex appear to be simple.",
+      "author": "Grady Booch"
+    },
+    {
+      "quote": "The Internet? Is that thing still around?",
+      "author": "Homer Simpson"
+    }
+]
+
