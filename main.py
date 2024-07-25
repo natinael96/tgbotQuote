@@ -6,10 +6,10 @@ import json
 from io import BytesIO
 import textwrap
 
-TOKEN = '7121923647:AAHS2806Xb-6Ic_zLZtF49JWugdwd0SEPoE'  # bot token
+TOKEN = ''  # bot token
 bot = telebot.TeleBot(TOKEN)  # bot instance
 
-group_id = '-1002140605617'  # group id
+group_id = ''  # group id
 quote_file = 'quotes.json'  # JSON file containing quotes
 posted_file = 'posted.json'  # JSON file to keep track of posted quotes
 
